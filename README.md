@@ -44,10 +44,10 @@ Our solution intelligently combines several signals beyond simple font size to i
 ## 🏗️ Project Structure
 
 
-main.py                 # Entry point for processing all PDFs in batch
+main.py                 # Entry point for processing all PDFs in batch.
 src/
-├── pdf_processor.py    # Core logic for PDF parsing and heading extraction
-└── __init__.py        # Package initializer (empty)
+├── pdf_processor.py    # Core logic for PDF parsing and heading extraction.
+└── __init__.py        # Package initializer (empty).
 
 
 
